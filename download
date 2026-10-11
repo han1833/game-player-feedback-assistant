@@ -1,0 +1,7 @@
+# 不要把玩家原话、分析任务或浏览器工作区备份提交到公开仓库。
+backups/
+exports/
+data/
+*.log
+.DS_Store
+Thumbs.db
